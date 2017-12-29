@@ -1,0 +1,46 @@
+<layerGroup>
+  <name>nepal_roads</name>
+  <title>Nepal Roads</title>
+  <layers>
+    <layer>road_track</layer>
+    <layer>road_track_grade1</layer>
+    <layer>road_track_grade234</layer>
+    <layer>road_track_grade5</layer>
+    <layer>road_unknown</layer>
+    <layer>road_steps</layer>
+    <layer>road_path</layer>
+    <layer>road_footway</layer>
+    <layer>road_cycleway</layer>
+    <layer>road_service</layer>
+    <layer>road_pedestrian</layer>
+    <layer>road_bridleway</layer>
+    <layer>road_motorway</layer>
+    <layer>road_residential</layer>
+    <layer>road_tertiary</layer>
+    <layer>road_secondary</layer>
+    <layer>road_living_street</layer>
+    <layer>road_primary</layer>
+    <layer>road_trunk</layer>
+    <layer>road_bridge</layer>
+  </layers>
+</layerGroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

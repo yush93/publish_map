@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><sld:StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc" xmlns:gml="http://www.opengis.net/gml" version="1.0.0">
+<sld:NamedLayer>
+<sld:Name>gis.osm_landuse_a_free_1</sld:Name>
+<sld:UserStyle>
+<sld:Name>gis.osm_landuse_a_free_1</sld:Name>
+<sld:FeatureTypeStyle>
+<sld:Rule>
+          <sld:Name>industrial</sld:Name>
+          
+          
+          <sld:PolygonSymbolizer>
+            <sld:Fill>
+              <sld:CssParameter name="fill">#ebdbe8</sld:CssParameter>
+            </sld:Fill>
+            
+          </sld:PolygonSymbolizer>
+        </sld:Rule>
+</sld:FeatureTypeStyle>
+</sld:UserStyle>
+</sld:NamedLayer>
+</sld:StyledLayerDescriptor>
